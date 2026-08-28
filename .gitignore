@@ -1,0 +1,19 @@
+#Python 
+.venv/
+__pycache__/
+*.py[cod]
+
+# Generated animation files
+3d_simulation*.mp4
+3d_simulation*.gif
+
+#environment
+.env
+.env.local
+.env.*.local
+
+#macOS
+.DS_Store
+
+# VS Code settings
+.vscode/
